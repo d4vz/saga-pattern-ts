@@ -133,4 +133,4 @@ dist
 .env*
 
 # Database Volume
-data/
+data
